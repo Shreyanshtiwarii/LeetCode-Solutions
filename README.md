@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
