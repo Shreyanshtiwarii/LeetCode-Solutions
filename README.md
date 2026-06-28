@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
