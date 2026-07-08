@@ -40,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 ## Binary Search
 |  |
 | ------- |
