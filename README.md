@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/0709-to-lower-case) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Shreyanshtiwarii/LeetCode-Solutions/tree/master/0268-missing-number) |
